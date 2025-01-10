@@ -1,0 +1,4 @@
+keywords/ : the folder contains the list of the top 50 keywords from the OffensEval training and test data for sub-task A per class (list of keywords for offensive and not offensive messages)
+
+
+Github link: https://github.com/tommasoc80/AbuseEval/tree/master

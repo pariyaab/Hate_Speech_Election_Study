@@ -1,0 +1,4 @@
+The growing prominence of online hate speech is a threat to a safe and just society. This endangering phenomenon requires collaboration across the sciences in order to generate evidence-based knowledge of, and policies for, the dissemination of hatred in online spaces. To foster such collaborations, here we present the Gab Hate Corpus (GHC), consisting of 27,665 posts from the social network service gab.ai, each annotated by a minimum of three trained annotators. Annotators were trained to label posts according to a coding typology derived from a synthesis of hate speech definitions across legal, computational, psychological, and sociological research. 
+
+
+Link : https://osf.io/edua3/
